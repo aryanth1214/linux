@@ -1,2 +1,4 @@
 #mkdir folder name  ===>> to create a folder 
 #touch file name ===>> to create a file 
+#vi file name ===>> you can type txt or notes for project 
+(esc)===>> after typing the txt and (:) ===>> (wq!) to save and quit
